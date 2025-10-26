@@ -13,7 +13,7 @@ Project in Term 1 of 3rd-year, Smart room for pets using ESP32 30Pin with Arduin
 
 # The program is written according to 2 frameworks 
 1. Arduino - Blynk
-2. Micropython - MQTTT Node-RED
+2. Micropython - MQTT Node-RED
 
 # Interface of system
 1. Pet IoT with Blynk
